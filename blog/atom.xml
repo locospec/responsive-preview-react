@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://responsive-preview-react.locospec.com/blog</id>
-    <title>responsive-preview-react Blog</title>
+    <title>Responsive Preview Component for React Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://responsive-preview-react.locospec.com/blog"/>
-    <subtitle>responsive-preview-react Blog</subtitle>
+    <subtitle>Responsive Preview Component for React Blog</subtitle>
     <icon>https://responsive-preview-react.locospec.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
